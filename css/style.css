@@ -138,7 +138,8 @@ body{
 
 
 .button-bas a{
-	font-size: 28px;
+	font-size: 22px;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 .button-bas a:hover{
